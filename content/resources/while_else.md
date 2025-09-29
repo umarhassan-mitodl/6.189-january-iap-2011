@@ -4,6 +4,8 @@ description: This resource is a supporting file for strings, lists, and list com
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/32623cefa109ac007005b0d5c281365e_while_else.py
 file_size: 2714
 file_type: text/python-source
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

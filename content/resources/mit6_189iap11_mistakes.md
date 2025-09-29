@@ -4,6 +4,8 @@ description: This resource contains information related to mistakes.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/d2cb9be926efdf0a4df78433255a876c_MIT6_189IAP11_mistakes.pdf
 file_size: 119486
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource is a supporting file for classes.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/aab8a55d700394adfa4d1df3ee870259_point.py
 file_size: 1849
 file_type: text/python-source
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

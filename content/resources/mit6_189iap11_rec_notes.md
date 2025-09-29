@@ -4,6 +4,8 @@ description: This resource contains information related to recursion notes.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/800f436a8d785f9e4e960c32f9482fb4_MIT6_189IAP11_rec_notes.pdf
 file_size: 111474
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
