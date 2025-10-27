@@ -4,8 +4,6 @@ description: This resource is a supporting file for defining functions.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/09b7e8740c0ec1d8995e2e4dab90849c_lecture3.py
 file_size: 810
 file_type: text/python-source
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

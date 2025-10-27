@@ -4,8 +4,6 @@ description: This resource is a supporting file for defining functions.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/ead8af051c821f7b61a6f45be4671390_check_for_vowels.py
 file_size: 1280
 file_type: text/python-source
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

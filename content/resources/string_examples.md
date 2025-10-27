@@ -4,8 +4,6 @@ description: This resource is a supporting file for strings, lists, and list com
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/41008f4e03fd486dfca6b97d2ca77e13_string_examples.py
 file_size: 844
 file_type: text/python-source
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

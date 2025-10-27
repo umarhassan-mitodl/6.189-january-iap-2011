@@ -4,8 +4,6 @@ description: 'This resource is a supporting file for recursion. '
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/a244b0d2c388deb0fc184fe5f7fe496a_recursion.py
 file_size: 2503
 file_type: text/python-source
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

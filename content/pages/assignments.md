@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the homework assignments and projects for the course
   along with handouts and supporting files.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -15,7 +13,7 @@ video_metadata:
   youtube_id: null
 ---
 
-If you are working on your own machine, you will probably need to install Python. We will be using the standard Python software, [available here](http://www.python.org/download/releases/2.6.6/). You should download and install version 2.6.x, **not** 2.7.x or 3.x. All MIT Course 6 classes currently use a version of Python 2.6.
+If you are working on your own machine, you will probably need to install Python. We will be using the standard Python software, {{% resource_link "26e594dd-89f5-41cb-a8a3-08540c1b46a3" "available here" %}}. You should download and install version 2.6.x, **not** 2.7.x or 3.x. All MIT Course 6 classes currently use a version of Python 2.6.
 
 {{< tableopen >}}
 {{< theadopen >}}

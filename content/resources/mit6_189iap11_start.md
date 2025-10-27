@@ -4,8 +4,6 @@ description: This resource contains information related to python.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/c741380fc67188bb346f1ede09aa2521_MIT6_189IAP11_start.pdf
 file_size: 101636
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
